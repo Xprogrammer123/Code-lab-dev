@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import BuyElectricity from './First';
-import SelectProvider from './Second';
+import BuyElectricity from './First.jsx';
+import SelectProvider from './Second.jsx';
 
 const AppRoutes = () => {
   return (
