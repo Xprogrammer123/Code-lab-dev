@@ -1,0 +1,34 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: auto;
+}
+
+.back-g{
+    background-image: url(../assets/images/image1.png);
+    height: 99.5vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.box{
+    border: 1px solid black;
+    width: 20%;
+    height: 15%;
+    display: flex;
+    justify-self: end;
+    align-items: end;
+}
+
+
+.boxxx{
+    height: 500px;
+    width: 500px;
+    border: 1px solid black;
+}
+
+
+
+
+
+
